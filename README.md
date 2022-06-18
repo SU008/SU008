@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SU008
 - 👀 I’m interested in Computer/Communications/Electroics/Software/Development/Testing/IoT/Hardware/Design/Simulation/Prototyping and more. 
-- 🌱 I’m currently learning Computer & Communications Engineering Honours at TU dublin. I have already graduated with a Bachelor in Electronics & Communications Engineering at the same institute.  
-- 💞️ I’m looking to collaborate on any Projects but proirity is given to engineering related first. 
+- 🌱 I’m a graduate Computer & Communications (Honours) Engineering Honours from TU dublin. I have already posses a Bachelor in Electronics & Communications (Ord) Engineering from the same institute.  
+- 💞️ I am currently looking for graduate work/Entry roles/Internship opportunities. Where I can apply my skills and gain experience in industry, working to solve real world challenges.
+-💞️I’m avalible to collaborate on any Projects but proirity is given to engineering related first. 
 - 📫 How to reach me:    sajjadullah725@gmail.com
 
 <!---
